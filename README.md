@@ -6,3 +6,7 @@
 #### Mentee Info
 ##### Name: Ayu Sihombing
 ##### Program: IBM Advance AI with Infinite Learning (MSIB)
+## LINK SITASI PROYEK
+---
+https://www.kaggle.com/code/sudarshan24byte/online-food-order-prediction
+---
