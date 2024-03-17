@@ -1,7 +1,7 @@
 # Online Food Order Predictions
 ## Author : Sudarshan Trifaley
 ## Python for Data Science
-### review proyek "online-food-order-prediction" authored by @SUDARSHAN TRIFALEY
+### review proyek "online-food-order-prediction" authored by @[SUDARSHAN TRIFALEY](https://github.com/sudarshan24-byte)
 ### Mentee assignment from IBM Advance Al @ Infinite Learning Python for Data science project (review code)
 #### Mentee Info
 ##### Name: Ayu Sihombing
